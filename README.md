@@ -15,3 +15,4 @@ Publisher: Degica, Co. LTD
 [Copyright](C) Plueschkatze
 
 All other sprites were provided as the standard library within RPG Maker MV. None of the artwork is mine.
+The image folder is not present due to copyright reasons.
